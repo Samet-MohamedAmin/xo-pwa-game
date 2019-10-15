@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "testproject-23728": {
+      "hosting": {
+        "xo": [
+          "testproject-23728"
+        ]
+      }
+    }
+  }
+}
